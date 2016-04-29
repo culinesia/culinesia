@@ -1,4 +1,4 @@
-title: Indonesia The Land of Spices
+title: Indonesia the Land of Spices
 tags: [indonesia, food]
 image: http://gdurl.com/49Q6
 intro: Spices refer to the aromatic substances obtained from plants, used in drinks and as food additives to provide taste, smell, as a preservative and as an anti-bacterial agent.
