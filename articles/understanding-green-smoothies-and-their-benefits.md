@@ -1,4 +1,4 @@
-title: Understanding Green Smoothies And Their Benefits
+title: Understanding Green Smoothies and their Benefits
 tags: [drinks, healthy]
 image: http://gdurl.com/TA-g
 intro: A green smoothie is made up of green leafy vegetables and fruits. Most people in the Western societies do not get enough greens in their diets which leads them to drink green smoothies as an alternative.
