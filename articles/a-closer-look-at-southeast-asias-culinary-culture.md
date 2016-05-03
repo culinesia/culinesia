@@ -1,6 +1,6 @@
 title: A Closer Look at Southeast Asia’s Culinary Culture
 tags: [indonesia, culture, asia, culinary]
-image: http://gdurl.com/tgbY
+image: a-closer-look-at-southeast-asias-culinary-culture
 intro: For many people, food is a huge part of any trip. Southeast Asia is a home to an incredibly rich history that provides you with a variety of cuisine and an opportunity to sample your favorite spice to tantalize your taste buds.
 ---
 For many people, food is a huge part of any trip. Southeast Asia is a home to
