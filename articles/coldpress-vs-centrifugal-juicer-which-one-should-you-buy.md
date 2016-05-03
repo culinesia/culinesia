@@ -1,6 +1,6 @@
 title: Coldpress vs. Centrifugal Juicer, Which One Should You Buy?
 tags: [health, drinks]
-image: http://gdurl.com/9qf1
+image: coldpress-vs-centrifugal-juicer-which-one-should-you-buy
 intro: Juicing is increasingly being accepted as the best way to eat healthy and as an alternative to the many processed snacks and drinks available.
 ---
 Juicing is increasingly being accepted as the best way to eat healthy and as an
