@@ -1,6 +1,6 @@
 title: Unique Health Benefits and Common Uses of Ginger Root
 tags: [indonesia, health]
-image: http://gdurl.com/6k-a
+image: ginger-root-unique-health-benefits-and-common-uses
 intro: Ginger root, or ginger, is a mass of roots (Rhizome) that grow in many places around the world. It is among the most extensively used herbal remedy, with billions of people using it every day as both medicine and food.
 ---
 What is Ginger Root?
