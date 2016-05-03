@@ -1,6 +1,6 @@
 title: Bali, Indonesia the Land of Spices
 tags: [indonesia, bali, food]
-image: http://gdurl.com/49Q6
+image: indonesia-the-land-of-spices
 intro: Spices refer to the aromatic substances obtained from plants, used in drinks and as food additives to provide taste, smell, as a preservative and as an anti-bacterial agent.
 ---
 Spices refer to the aromatic substances obtained from plants, used in drinks
