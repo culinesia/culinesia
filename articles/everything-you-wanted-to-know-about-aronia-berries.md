@@ -1,6 +1,6 @@
 title: Everything You Wanted to Know About Aronia Berries
 tags: [fruits, culture, culinary]
-image: http://gdurl.com/j7gX
+image: everything-you-wanted-to-know-about-aronia-berries
 intro: The health industry is always buzzing with new information on super berries, and the latest one to join the list is the Aronia berry.
 ---
 The health industry is always buzzing with new information on super berries,
